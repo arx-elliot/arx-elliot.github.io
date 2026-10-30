@@ -1,0 +1,6 @@
+{
+  "name": "DARK_G // Cyber Security & Gamer Dossier",
+  "description": "Interactive futuristic cyberpunk portfolio for darkg8016 — cyber security researcher, red team exploit analyst, and competitive gamer with animated terminal, CTF challenges, and battlestation telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
